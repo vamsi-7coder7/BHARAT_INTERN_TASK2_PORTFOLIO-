@@ -106,10 +106,8 @@ The Contact section provides a way for visitors to get in touch with me. It incl
 ### About Section
 ![About Section](https://github.com/vamsi-7coder7/BHARAT_INTERN_TASK2_PORTFOLIO-/assets/141996043/dd127854-40fd-4f12-9b58-2da46f095cbc)
 
-)
-
 ### Services Section
-![Services Section](https://github.com/vamsi-7coder7/BHARAT_INTERN_TASK2_PORTFOLIO-/assets/141996043/be16042c-0b93-4399-8b08-d879a5775120)
+![Services Section]
 
 ### Projects Section
 ![Projects Section](https://github.com/vamsi-7coder7/BHARAT_INTERN_TASK2_PORTFOLIO-/assets/141996043/064b0d12-20af-4c55-8cb8-96692ad0226c)
@@ -118,7 +116,7 @@ The Contact section provides a way for visitors to get in touch with me. It incl
 ![Contact Section](screenshots/contact.png)
 
 ### Skills Section
-![Skills Section](screenshots/skills.png)
+![Skills Section](https://github.com/vamsi-7coder7/BHARAT_INTERN_TASK2_PORTFOLIO-/assets/141996043/be16042c-0b93-4399-8b08-d879a5775120)
 
 ## Contributing
  Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
