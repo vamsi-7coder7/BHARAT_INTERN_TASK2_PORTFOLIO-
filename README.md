@@ -104,7 +104,9 @@ The Contact section provides a way for visitors to get in touch with me. It incl
 
 
 ### About Section
-![About Section](screenshots/about.png)
+![About Section](https://github.com/vamsi-7coder7/BHARAT_INTERN_TASK2_PORTFOLIO-/assets/141996043/dd127854-40fd-4f12-9b58-2da46f095cbc)
+
+)
 
 ### Services Section
 ![Services Section](screenshots/services.png)
