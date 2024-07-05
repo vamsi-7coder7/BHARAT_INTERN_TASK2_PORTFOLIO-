@@ -5,16 +5,16 @@
 
 ## Table of Contents
 
-  - [About](#about)
-  - [Services](#services)
-  - [Projects](#projects)
-  - [Contact](#contact)
-  - [Skills](#skills)
-    - [Professional Skills](#professional-skills)
-    - [Technical Skills](#technical-skills)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+  - About
+  - Services
+  - Projects
+  - Contact
+  - Skills
+    - Professional Skills
+    - Technical Skills
+  - Usage
+  - Contributing
+  - License
 
 ## About
 
@@ -48,52 +48,7 @@
   - JavaScript
   - React
   - Node.js
-# Portfolio.x
 
-Portfolio.x is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases various sections such as About, Services, Projects, Contact, and Skills, with the Skills section further categorized into Professional Skills and Technical Skills.
-
-## Table of Contents
-
-- [About]
-- [Services]
-- [Projects]
-- [Contact]
-- [Skills]
-  - [Professional Skills]
-  - [Technical Skills]
-
-## About
-
-The About section provides an overview of who I am, my background, and what I do. It includes a brief bio and my mission.
-
-## Services
-
-In the Services section, I outline the different services I offer, which may include web development, UI/UX design, and consulting.
-
-## Projects
-
-The Projects section showcases a selection of my work. Each project entry includes a brief description, the technologies used, and a link to the live project or repository.
-
-## Contact
-
-The Contact section provides a way for visitors to get in touch with me. It includes a contact form and my social media links.
-
-## Skills
-
-### Professional Skills
-
-- Communication
-- Teamwork
-- Problem-solving
-- Time Management
-
-### Technical Skills
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
 ## Screenshots
 
 ### Home Page
